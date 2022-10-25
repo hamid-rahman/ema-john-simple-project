@@ -39,6 +39,9 @@
     position: absolute;
     bottom: 0;
 }
+.btn-addToCart a{
+    text-decoration: none;
+}
 .btn-addToCart:hover{
     background: orange;
 }
